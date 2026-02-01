@@ -2,7 +2,8 @@
 
 A full-stack intelligent assessment platform that leverages Generative AI using Agentic RAG(RAG + Phi-3) to automate quiz creation from lecture notes. Designed for educational institutions to streamline the workflow between Admins, Teachers, and Students.
 
-![Project Banner](https://github.com/FahadKhalique804/automated-quiz-generation-system/Quizine AI.png)
+![Project Banner](https://raw.githubusercontent.com/FahadKhalique804/automated-quiz-generation-system/main/Quizine%20AI.png)
+
 
 ## 🚀 Key Features
 
