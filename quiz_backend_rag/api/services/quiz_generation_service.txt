@@ -1,0 +1,12 @@
+
+    """
+    Unified pipeline:
+    1. Vector Search chunks for context.
+    2. Generate MCQs using Phi-3 loop.
+    3. Save Quiz Metadata.
+    4. Save Quiz Questions.
+    """
+
+    # Wraps the preview + finalize steps for backward compatibility or single-step generation
+
+

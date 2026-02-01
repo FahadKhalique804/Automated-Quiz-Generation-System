@@ -1,0 +1,29 @@
+name: quiz_frontend
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0' # Updated to a more recent and flexible SDK version
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  http: ^1.2.0           # For making HTTP requests to your FastAPI backend
+  provider: ^6.1.2       # A simple and effective state management solution
+  shared_preferences: ^2.2.2 # To store user authentication tokens
+  file_picker: ^8.0.0    # For picking files to upload
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0 # Updated to a more recent version
+
+flutter:
+  uses-material-design: true
+
+  # Add this section to include your assets
+  assets:
+    - assets/images/
