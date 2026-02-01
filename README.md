@@ -1,5 +1,11 @@
 # Automated Quiz Generation & Assessment AI System
 
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue)](https://www.python.org/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-brightgreen)](https://fastapi.tiangolo.com/)
+[![Flutter](https://img.shields.io/badge/Flutter-3.10+-blue.svg)](https://flutter.dev/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Phi-3](https://img.shields.io/badge/LLM-Phi--3-orange)](https://huggingface.co/microsoft/Phi-3-mini-4k-instruct)
+
 A full-stack intelligent assessment platform that leverages Generative AI using Agentic RAG(RAG + Phi-3) to automate quiz creation from lecture notes. Designed for educational institutions to streamline the workflow between Admins, Teachers, and Students.
 
 ![Project Banner](https://raw.githubusercontent.com/FahadKhalique804/automated-quiz-generation-system/main/Quizine%20AI.png)
